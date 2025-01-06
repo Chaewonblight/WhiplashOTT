@@ -824,7 +824,7 @@ http://87.254.1.41:9981/stream/channelid/1623019863?profile=pass
 #EXTINF:-175 tvg-logo="https://i.imgur.com/WNyPhah.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＣＯＮＣＥＲＴ
 http://38.191.90.2:8000/play/a05g
 
-#EXTINF:-176 tvg-logo="https://i.imgur.com/Tf0vweF.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",ＫＰＯＰ ＴＶ ＰＬＡＹ
+#EXTINF:-176 tvg-logo="https://i.imgur.com/Tf0vweF.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＫＰＯＰ ＴＶ ＰＬＡＹ
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 
 #EXTINF:-177 tvg-logo="https://i.imgur.com/EP9uxj5.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＭＴＶ ００Ｓ
