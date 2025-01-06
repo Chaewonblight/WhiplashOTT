@@ -824,120 +824,120 @@ http://87.254.1.41:9981/stream/channelid/1623019863?profile=pass
 #EXTINF:-175 tvg-logo="https://i.imgur.com/WNyPhah.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＣＯＮＣＥＲＴ
 http://38.191.90.2:8000/play/a05g
 
-#EXTINF:-176 tvg-logo="https://i.imgur.com/EP9uxj5.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＭＴＶ ００Ｓ
+#EXTINF:-176 tvg-logo="https://i.imgur.com/Tf0vweF.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",ＫＰＯＰ ＴＶ ＰＬＡＹ
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
+
+#EXTINF:-177 tvg-logo="https://i.imgur.com/EP9uxj5.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＭＴＶ ００Ｓ
 http://87.254.1.41:9981/stream/channelid/1342032551?profile=pass
 
-#EXTINF:-177 tvg-logo="https://i.imgur.com/YeUgnwF.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＭＴＶ ８０Ｓ
+#EXTINF:-178 tvg-logo="https://i.imgur.com/YeUgnwF.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＭＴＶ ８０Ｓ
 http://87.254.1.41:9981/stream/channelid/99997359?profile=pass
 
-#EXTINF:-178 tvg-logo="https://i.imgur.com/D5y8Xt8.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＭＴＶ ９０Ｓ
+#EXTINF:-179 tvg-logo="https://i.imgur.com/D5y8Xt8.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＭＴＶ ９０Ｓ
 http://103.84.177.18:48090/live/tvnijuan2025/tvnijuan2025/5188.m3u8
 
-#EXTINF:-179 tvg-logo="https://i.imgur.com/AOaZmlS.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＭＴＶ ＢＩＧＧＥＳＴ ＰＯＰ
+#EXTINF:-180 tvg-logo="https://i.imgur.com/AOaZmlS.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＭＴＶ ＢＩＧＧＥＳＴ ＰＯＰ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
 
-#EXTINF:-180 tvg-logo="https://i.imgur.com/z0uTcNt.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＭＴＶ ＨＩＴＳ
+#EXTINF:-181 tvg-logo="https://i.imgur.com/z0uTcNt.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＭＴＶ ＨＩＴＳ
 http://45.88.92.3/tr3_MTVHits_SD/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-181 tvg-logo="https://i.imgur.com/j8x0nhs.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＭＴＶ ＬＩＶＥ
+#EXTINF:-182 tvg-logo="https://i.imgur.com/j8x0nhs.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＭＴＶ ＬＩＶＥ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
-#EXTINF:-182 tvg-logo="https://i.imgur.com/thbvJd1.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＭＴＶ ＳＰＡＮＫＩＮ' ＮＥＷ
+#EXTINF:-183 tvg-logo="https://i.imgur.com/thbvJd1.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＭＴＶ ＳＰＡＮＫＩＮ' ＮＥＷ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1066e5a-9a82-4a1b-a025-868c083394e4
 
-#EXTINF:-183 tvg-logo="https://i.imgur.com/WnZiNz0.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＭＴＶ ＵＮＰＬＵＧＧＥＤ
+#EXTINF:-184 tvg-logo="https://i.imgur.com/WnZiNz0.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＭＴＶ ＵＮＰＬＵＧＧＥＤ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f98471110cca20007d39f76/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b53-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=81574af2-8af4-46c8-8d63-00cbea99cbf5
 
-#EXTINF:-184 tvg-logo="https://i.imgur.com/CIPTNnT.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＭＹＸ
+#EXTINF:-185 tvg-logo="https://i.imgur.com/CIPTNnT.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＭＹＸ
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-185 tvg-logo="https://i.imgur.com/ST060qy.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＲＯＣＫ ＴＶ ＭＡＮＩＬＡ
+#EXTINF:-186 tvg-logo="https://i.imgur.com/ST060qy.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＲＯＣＫ ＴＶ ＭＡＮＩＬＡ
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001177/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-186 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＳＴＩＮＧＲＡＹ ＣＬＡＳＳＩＣＡ
+#EXTINF:-187 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＳＴＩＮＧＲＡＹ ＣＬＡＳＳＩＣＡ
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-187 tvg-logo="https://i.imgur.com/3UppN5P.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＳＴＩＮＧＲＡＹ ＣＭＵＳＩＣ
+#EXTINF:-188 tvg-logo="https://i.imgur.com/3UppN5P.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＳＴＩＮＧＲＡＹ ＣＭＵＳＩＣ
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-188 tvg-logo="https://i.imgur.com/VRazo4V.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＴＲＡＣＥ ＵＲＢＡＮ
+#EXTINF:-189 tvg-logo="https://i.imgur.com/VRazo4V.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＴＲＡＣＥ ＵＲＢＡＮ
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-189 tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＶＥＶＯ '７０Ｓ
+#EXTINF:-190 tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＶＥＶＯ '７０Ｓ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc205-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65607a14-91b8-4a2f-acee-142424cbaf0b
 
-#EXTINF:-190 tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＶＥＶＯ '８０Ｓ
+#EXTINF:-191 tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＶＥＶＯ '８０Ｓ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc206-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e72e853c-9c99-4dda-b7b5-22baedf34c42
 
-#EXTINF:-191 tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＶＥＶＯ '９０Ｓ
+#EXTINF:-192 tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＶＥＶＯ '９０Ｓ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1
 
-#EXTINF:-192 tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＶＥＶＯ ２Ｋ
+#EXTINF:-193 tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＶＥＶＯ ２Ｋ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343
 
-#EXTINF:-193 tvg-logo="https://i.imgur.com/dZHktKR.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＶＥＶＯ ＰＯＰ
+#EXTINF:-194 tvg-logo="https://i.imgur.com/dZHktKR.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＶＥＶＯ ＰＯＰ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce912-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=48fd2d58-c66f-492e-90a6-986e95bbc2e9
 
-#EXTINF:-194 tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＶＥＶＯ Ｒ&Ｂ
+#EXTINF:-195 tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＶＥＶＯ Ｒ&Ｂ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce913-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9489829-fa99-492b-9890-e85a4a467854
 
-#EXTINF:-195 tvg-logo="https://i.imgur.com/H1Aap4E.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＶＥＶＯ ＲＥＴＲＯ ＲＯＣＫ
+#EXTINF:-196 tvg-logo="https://i.imgur.com/H1Aap4E.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＶＥＶＯ ＲＥＴＲＯ ＲＯＣＫ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce917-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5b34f49b-bb11-47dd-b65b-7c5074a9925c
 
-#EXTINF:-196 tvg-logo="https://i.imgur.com/owUXUih.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＶＥＶＯ ＴＲＵＥ ＳＣＨＯＯＬ ＨＩＰＨＯＰ
+#EXTINF:-197 tvg-logo="https://i.imgur.com/owUXUih.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＶＥＶＯ ＴＲＵＥ ＳＣＨＯＯＬ ＨＩＰＨＯＰ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce918-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90c1dbc6-366d-4ba4-913a-7ff94babe33e
 
-#EXTINF:-197 tvg-logo="https://i.imgur.com/gVpgBO4.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＶＨ１
+#EXTINF:-198 tvg-logo="https://i.imgur.com/gVpgBO4.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＶＨ１
 http://sansat.cc:88/live/g25/ZNaMXGCdLDVne0g/93676.ts
 
-#EXTINF:-198 tvg-logo="https://i.imgur.com/XD9sJiy.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＸＩＴＥ
+#EXTINF:-199 tvg-logo="https://i.imgur.com/XD9sJiy.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＸＩＴＥ
 https://xite-samsung-de.amagi.tv/playlist.m3u8
 
-#EXTINF:-199 tvg-logo="https://i.imgur.com/EiaHNVS.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＸＩＴＥ ８０Ｓ ＦＬＡＳＨＢＡＣＫ
+#EXTINF:-200 tvg-logo="https://i.imgur.com/EiaHNVS.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＸＩＴＥ ８０Ｓ ＦＬＡＳＨＢＡＣＫ
 https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-200 tvg-logo="https://i.imgur.com/EiaHNVS.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＸＩＴＥ ９０Ｓ ＦＬＡＳＨＢＡＣＫ
+#EXTINF:-201 tvg-logo="https://i.imgur.com/EiaHNVS.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＸＩＴＥ ９０Ｓ ＦＬＡＳＨＢＡＣＫ
 https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-201 tvg-logo="https://i.imgur.com/EiaHNVS.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＸＩＴＥ ＲＯＣＫ
+#EXTINF:-202 tvg-logo="https://i.imgur.com/EiaHNVS.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＸＩＴＥ ＲＯＣＫ
 https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-202 tvg-logo="https://i.imgur.com/hzNXDdY.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＹＯ! ＭＴＶ
+#EXTINF:-203 tvg-logo="https://i.imgur.com/hzNXDdY.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",ＹＯ! ＭＴＶ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3737-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=32448355-0e6b-41d6-91ca-4bad8ef8310d
 
-#EXTINF:-203 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",ＡＳＴＲＯ ＳＰＯＲＴＳ
+#EXTINF:-204 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",ＡＳＴＲＯ ＳＰＯＲＴＳ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/1600/default.mpd
 
-#EXTINF:-204 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",ＢＥＩＮ ＳＰＯＲＴＳ １
+#EXTINF:-205 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",ＢＥＩＮ ＳＰＯＲＴＳ １
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 
-#EXTINF:-205 tvg-logo="https://cms.cignal.tv/Upload/Images/BeIn-2.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",ＢＥＩＮ ＳＰＯＲＴＳ ２
+#EXTINF:-206 tvg-logo="https://cms.cignal.tv/Upload/Images/BeIn-2.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",ＢＥＩＮ ＳＰＯＲＴＳ ２
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
 
-#EXTINF:-206 tvg-logo="https://cms.cignal.tv/Upload/Images/BeIn-3.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",ＢＥＩＮ ＳＰＯＲＴＳ ３
+#EXTINF:-207 tvg-logo="https://cms.cignal.tv/Upload/Images/BeIn-3.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",ＢＥＩＮ ＳＰＯＲＴＳ ３
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
-
-#EXTINF:-207 tvg-logo="https://i.imgur.com/XxHlcBN.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",ＢＬＡＳＴ ＳＰＯＲＴＳ
-https://ott.studentsdemo.com/stream/phcathenatv/blastsports/master.m3u8?u=phc&p=952839dd924747ba61aac23a9311e8c8ff7013327d77fcf7df5067d0cea83fc4
 
 #EXTINF:-208 tvg-logo="https://app.ksmctv.com/Content/MCTV/Image/Channel/32-EDGE_SPORT.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",ＥＤＧＥＳＰＯＲＴ
 http://103.84.177.18:48090/live/tvnijuan2025/tvnijuan2025/3364.m3u8
